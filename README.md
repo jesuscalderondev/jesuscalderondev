@@ -1,8 +1,10 @@
 ### Hola soy Jesús Calderón 💻
+![Static Badge](https://img.shields.io/badge/jesusmcalderonv2002@gmail.com-gmail?style=flat-square&logo=gmail&logoColor=white&labelColor=red&color=red)
 
 ### Tecnologías
 - ![Static Badge](https://img.shields.io/badge/Pythont-py?style=flat-square&logo=python&logoColor=white&labelColor=blue&color=blue)
     - Flask 🕸️, Pandas 🐼, Reportlab 📚, Openpyxl 📗, SqlAlchemy (ORM) 💽, Tkinter 🖥️, Numpy📏, Matplotib📊
+    - Entre muchas otras librerías.
       
 - ![Static Badge](https://img.shields.io/badge/Javascript-js?style=flat-square&logo=javascript&logoColor=white&labelColor=red&color=red)
 - ![Static Badge](https://img.shields.io/badge/Css-css?style=flat-square&logo=css&logoColor=white&labelColor=blue&color=blue)
@@ -21,6 +23,10 @@ Actualmente uso como lenguaje base Python🐍, principalmente usando el framewor
 En el apartado de frontend tengo conocimientos sólidos en JS vainilla, HTML5, CSS y Bootstrap, con experiencia en el consumo de API's, manejo de fecth y json para conexiones con el backend, además de diseños prácticos con el uso del framework Bootstrap para hacerlo responsive.
 
 En otros apartados también he trabajado en la creación de scripts y bots, para hacer integraciones con sistemas mediante API's o conexiones directas a bases de datos, automatización de tareas y optimización de procesos a la hora de creación de algoritmos, obtener datos o crearlos.
+
+### Habilidades blandas
+Dentro de mis habilidades blandas concidero que las más destacables son la comunicación asertiva, la capacidad de aprendizaje, adaptación a los cambios, el manejo de relaciones interpersonales y la empatía.
+
 
 <!--
 **jesuscalderondev/jesuscalderondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

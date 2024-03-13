@@ -20,13 +20,12 @@ Soy estudiante de Ing. en sistemas, en la Universidad del magdalena, me desempe�
 
 Actualmente uso como lenguaje base Python🐍, principalmente usando el framework Flask, cuento con más de un año de experiencia laboral y dos años de experiencia demostrable, en mi tiempo de trabajo, he desarrollado servicios web con diferentes herramientas, tales como, JWT🔐, Sessions👨‍💻, entornos virtuales🧑‍💻, manejo de archivos en la nube, ORM, POO, arquitectura y estructura de datos y manejo de puertos. Manejo de archivos como excel en sus extensiones .xls y .xlsx, para migración a base de datos y generando los mismos desde los sistemas, para ser descargados, además de generar reportes en pdf con la librería reportlab.
 
-En el apartado de frontend tengo conocimientos sólidos en JS vainilla, HTML5, CSS y Bootstrap, con experiencia en el consumo de API's, manejo de fecth y json para conexiones con el backend, además de diseños prácticos con el uso del framework Bootstrap para hacerlo responsive.
+En el apartado de frontend tengo conocimientos sólidos en JS vanilla, HTML5, CSS y Bootstrap, con experiencia en el consumo de API's, manejo de fecth y json para conexiones con el backend, además de diseños prácticos con el uso del framework Bootstrap para hacerlo responsive.
 
 En otros apartados también he trabajado en la creación de scripts y bots, para hacer integraciones con sistemas mediante API's o conexiones directas a bases de datos, automatización de tareas y optimización de procesos a la hora de creación de algoritmos, obtener datos o crearlos.
 
 ### Habilidades blandas
 Dentro de mis habilidades blandas concidero que las más destacables son la comunicación asertiva, la capacidad de aprendizaje, adaptación a los cambios, el manejo de relaciones interpersonales y la empatía.
-
 
 <!--
 **jesuscalderondev/jesuscalderondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

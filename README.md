@@ -3,7 +3,7 @@
 
 ### Tecnologías
 - ![Static Badge](https://img.shields.io/badge/Pythont-py?style=flat-square&logo=python&logoColor=white&labelColor=blue&color=blue)
-    - Flask 🕸️, Pandas 🐼, Reportlab 📚, Openpyxl 📗, SqlAlchemy (ORM) 💽, Tkinter 🖥️, Numpy📏, Matplotib📊
+    - Flask 🕸️, Pandas 🐼, Reportlab 📚, Openpyxl 📗, SqlAlchemy (ORM) 💽, Tkinter 🖥️, Numpy📏, Matplotib📊, OpenCv2👀
     - Entre muchas otras librerías.
       
 - ![Static Badge](https://img.shields.io/badge/Javascript-js?style=flat-square&logo=javascript&logoColor=white&labelColor=red&color=red)
@@ -16,13 +16,14 @@
 - ![Static Badge](https://img.shields.io/badge/ChartJs-r?style=flat-square&logo=chart-js&logoColor=white&labelColor=blue&color=blue)
 
 ### Sobre mí
-Soy estudiante de Ing. en sistemas, en la Universidad del magdalena, me desempeño en el área de desarrollo Backend, aunque también tengo conocimientos sólidos en la parte del Frontend.
+Soy estudiante de Ing. en Sistema en la Universidad del Magdalena, me desempeño en el área de desarrollo Backend, aunque también tengo conocimientos sólidos en la parte del Frontend.
 
 Actualmente uso como lenguaje base Python🐍, principalmente usando el framework Flask, cuento con más de un año de experiencia laboral y dos años de experiencia demostrable, en mi tiempo de trabajo, he desarrollado servicios web con diferentes herramientas, tales como, JWT🔐, Sessions👨‍💻, entornos virtuales🧑‍💻, manejo de archivos en la nube, ORM, POO, arquitectura y estructura de datos y manejo de puertos. Manejo de archivos como excel en sus extensiones .xls y .xlsx, para migración a base de datos y generando los mismos desde los sistemas, para ser descargados, además de generar reportes en pdf con la librería reportlab.
 
 En el apartado de frontend tengo conocimientos sólidos en JS vanilla, HTML5, CSS y Bootstrap, con experiencia en el consumo de API's, manejo de fecth y json para conexiones con el backend, además de diseños prácticos con el uso del framework Bootstrap para hacerlo responsive.
 
-En otros apartados también he trabajado en la creación de scripts y bots, para hacer integraciones con sistemas mediante API's o conexiones directas a bases de datos, automatización de tareas y optimización de procesos a la hora de creación de algoritmos, obtener datos o crearlos.
+En otros apartados también he trabajado en la creación de scripts y bots, para hacer integraciones con sistemas mediante API's o conexiones directas a bases de datos, automatización de tareas y optimización de procesos a la hora de creación de algoritmos, obtener datos o crearlos. Llevando de la mano proyecttos en conjunto, cumpliendo el rol de QA en ocaciones requeridas, teniendo experiencia en la parte de dirección y coordinación de procesos de concepción y diseño de softare para implementación de sistemas en entorno de desarrollo y admás de un entorno de producción.
+
 
 ### Habilidades blandas
 Dentro de mis habilidades blandas concidero que las más destacables son la comunicación asertiva, la capacidad de aprendizaje, adaptación a los cambios, el manejo de relaciones interpersonales y la empatía.

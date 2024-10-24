@@ -1,5 +1,4 @@
-
-<link rel="stylesheet" href="./data/custom.css">
+<link rel="stylesheet" href="data/custom.css">
 <div class="container">
         <img class="portada" src="./data/portada.png">
         <h1>

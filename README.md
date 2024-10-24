@@ -2,7 +2,6 @@
         * {
   margin: 0;
 }
-
 .container {
   position: relative;
 }
@@ -32,21 +31,18 @@
 .container:hover h1 {
   color: #fff;
 }
-
 .avatar {
   height: 250px;
   width: 250px;
   -webkit-clip-path: circle(50% at 50% 50%);
           clip-path: circle(50% at 50% 50%);
 }
-
 .center-horizontal, .tarjet .head {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 10px;
 }
-
 .myProfile,
 .description {
   display: flex;
@@ -54,43 +50,35 @@
   justify-content: start;
   align-items: start;
 }
-
 .myProfile {
   min-width: 30vw;
 }
-
 .description {
   min-width: 65vw;
   row-gap: 10px;
 }
-
 .exp {
   border: 2px dashed black;
   border-radius: 5px;
   padding: 5px;
 }
-
 .title {
   margin-left: 10px;
 }
-
 ul {
   list-style: none;
 }
-
 .logo {
   height: 100px;
   width: 100px;
   padding-right: 10px;
 }
-
 .left-b {
   border: none;
   border-left: 1px solid #000;
   border-radius: 0;
   padding-left: 10px;
 }
-
 .cards {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -102,7 +90,6 @@ ul {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-
 .tarjet {
   background-color: #1b1b1b;
   border-radius: 5px;
@@ -153,17 +140,6 @@ ul {
 .tarjet:hover .progress {
   position: absolute;
   text-shadow: #08f 1px 2px 10px;
-}
-
-@keyframes entry-left {
-  0% {
-    opacity: 0;
-    transform: translateX(-100%);
-  }
-  100% {
-    opacity: 1;
-    transform: translateX(0);
-  }
 }
 a {
   text-decoration: none;

@@ -1,4 +1,3 @@
-
 <style>
     * {
   margin: 0;
@@ -146,7 +145,7 @@ a {
   text-decoration: none;
   color: #08f;
   font-weight: 600;
-}/*# sourceMappingURL=custom.css.map */
+}
 </style>
 <div class="container">
         <img class="portada" src="./data/portada.png">
